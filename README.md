@@ -1,36 +1,36 @@
 # Personal Portfolio Website
 
-Personal Portfolio Website adalah sebuah website portfolio pribadi yang dibuat dengan menggunakan HTML, CSS, dan JavaScript. Website ini dirancang untuk memamerkan profil, keterampilan, pengalaman, dan karya seseorang dalam industri teknologi atau bidang lainnya.
+Personal Portfolio Website is a personal portfolio website created using HTML, CSS, and JavaScript. This website is designed to showcase an individual's profile, skills, experience, and projects in the tech industry or other fields.
 
-# Fitur
-- Navigasi menu yang responsif dan mudah digunakan
-- Bagian "Tentang Diri" yang menampilkan informasi pribadi dan pengalaman singkat
-- Bagian "Keterampilan" yang menampilkan keterampilan utama seperti pemrograman web, desain UI/UX, dan penetration testing
-- Bagian "Pendidikan" yang menampilkan latar belakang pendidikan
-- Bagian "Layanan" yang menjelaskan layanan yang ditawarkan
-- Bagian "Karya" yang menampilkan beberapa proyek atau karya terbaru
-- Bagian "Kontak" yang memungkinkan pengguna untuk menghubungi pemilik website
+# Features
+- Responsive and user-friendly navigation menu
+- "About Me" section displaying personal information and a brief introduction
+- "Skills" section showcasing key skills such as web development, UI/UX design, and penetration testing
+- "Education" section displaying educational background
+- "Services" section explaining the services offered
+- "Portfolio" section displaying some recent projects or works
+- "Contact" section allowing users to contact the website owner
 
-# Teknologi yang Digunakan
+# Technologies Used
 - HTML
 - CSS
 - JavaScript
 
-# Cara Menjalankan Aplikasi
-1. Clone repositori ini ke direktori lokal Anda:
+# How to Run the Application
+1. Clone this repository to your local directory:
     ```bash
     git clone https://github.com/username/personal-portfolio-website.git
     ```
-2. Buka file `index.html` di browser untuk melihat website.
+2. Open the `index.html` file in your browser to view the website.
 
-# Kontribusi
-Jika Anda ingin berkontribusi pada proyek ini, silakan ajukan pull request. Kami sangat terbuka terhadap saran dan perbaikan dari komunitas.
+# Contribution
+If you wish to contribute to this project, please submit a pull request. We welcome suggestions and improvements from the community.
 
-# Penghargaan
-- [Boxicons](https://boxicons.com/) untuk ikon yang digunakan
-- [Google Fonts](https://fonts.google.com/) untuk font yang digunakan
+# Acknowledgments
+- [Boxicons](https://boxicons.com/) for the icons used
+- [Google Fonts](https://fonts.google.com/) for the fonts used
 
-# Lisensi
-Proyek ini dilisensikan di bawah MIT License.
+# License
+This project is licensed under the MIT License.
 
-Terima kasih telah mengunjungi repositori saya!
+Thank you for visiting my repository!
