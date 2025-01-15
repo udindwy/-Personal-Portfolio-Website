@@ -29,8 +29,3 @@ If you wish to contribute to this project, please submit a pull request. We welc
 # Acknowledgments
 - [Boxicons](https://boxicons.com/) for the icons used
 - [Google Fonts](https://fonts.google.com/) for the fonts used
-
-# License
-This project is licensed under the MIT License.
-
-Thank you for visiting my repository!
